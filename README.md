@@ -14,15 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:ff7eb3&height=200&section=header&text=Mimi%20Vladeva&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-ff7eb3?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-e84393?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:tuemail@email.com">
+<img src="https://img.shields.io/badge/Email-c2185b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
