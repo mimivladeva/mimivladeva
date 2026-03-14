@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/LinkedIn-e84393?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:tuemail@email.com">
+<a href="mailto:vladevamimi@gmail.com">
 <img src="https://img.shields.io/badge/Email-c2185b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 </p>
 
