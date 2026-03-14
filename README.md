@@ -103,3 +103,9 @@ I’m also interested in **interactive technologies and game development using U
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mimivladeva&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:b0005b&height=120&section=footer"/>
+</p>
