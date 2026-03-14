@@ -37,6 +37,15 @@ Here are some ideas to get you started:
 
 ### 👩‍💻 About Me
 
+
+Final-year **Interactive Technologies** student at **Universitat Politècnica de València (UPV), Gandia**.
+
+My work focuses on **frontend web development**, **Android applications**, and the integration of **robotics and sensor systems** with software platforms. I enjoy building systems that connect **hardware, mobile apps, and web interfaces** to create practical and interactive solutions.
+
+Technologies I frequently work with include **HTML, CSS, JavaScript, Python, Android Studio, ROS2, and Arduino**.
+
+I’m also interested in **interactive technologies and game development using Unity**.
+
 🎓 Interactive Technologies student at **UPV Gandia**
 
 💻 Passionate about **Web Development**
