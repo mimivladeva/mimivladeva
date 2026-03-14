@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=200&section=header&text=Mimi%20Vladeva&fontSize=40&fontColor=ffffff"/>
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:30cfd0,100:330867&height=200&section=header&text=Mimi%20Vladeva&fontSize=40&fontColor=ffffff"/>
 
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
