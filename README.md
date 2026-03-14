@@ -46,16 +46,6 @@ Technologies I frequently work with include **HTML, CSS, JavaScript, Python, And
 
 I’m also interested in **interactive technologies and game development using Unity**.
 
-🎓 Interactive Technologies student at **UPV Gandia**
-
-💻 Passionate about **Web Development**
-
-📱 Android Applications Developer
-
-🤖 Interested in **Robotics & Sensor Integration**
-
-🎮 Unity Game Development
-
 ---
 
 ## 🛠 Technologies I Work With
