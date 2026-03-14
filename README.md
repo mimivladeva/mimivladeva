@@ -107,5 +107,5 @@ I’m also interested in **interactive technologies and game development using U
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:b0005b&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:b0005b&height=150&section=footer"/>
 </p>
