@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Portfolio-ff7eb3?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/mimi-vladeva-a17080353/">
 <img src="https://img.shields.io/badge/LinkedIn-e84393?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
