@@ -1,17 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=Mimi%20Vladeva&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<!--
+**mimivladeva/mimivladeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:b0005b&height=200&section=header&text=Mimi%20Vladeva&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-ff7eb3?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-e84393?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:tuemail@email.com">
+<img src="https://img.shields.io/badge/Email-c2185b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
