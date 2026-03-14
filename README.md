@@ -95,6 +95,11 @@ I’m also interested in **interactive technologies and game development using U
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mimivladeva&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mimivladeva&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimivladeva&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mimivladeva)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mimivladeva&theme=tokyonight&hide_border=true"/>
+</p>
