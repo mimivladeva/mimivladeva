@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="#">
+
+<a href="https://mimivladeva.github.io/portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-ff7eb3?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
